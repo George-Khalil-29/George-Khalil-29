@@ -21,5 +21,7 @@
   ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
- ##💻 Coding
-      <a <img src="./images/CodingImage.Jpeg.jpg" width="600" height="400"></a>
+ <h2>💻 Coding</h2>
+      <p>
+      <img src="./images/CodingImage.Jpeg.jpg" width="600" height="400">
+      </p>
