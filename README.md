@@ -1,5 +1,5 @@
 <h1>Hello👋</h1>
-<p>My name is George, i'm 15</p>
+<p>My name is George, New Programmer</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
