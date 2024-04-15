@@ -9,7 +9,7 @@
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=black"></a>
 </p>
 
-<h2>💻 Operating Systems</h2>
+<h2>💻 Systems I use</h2>
 <p>
   <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
   <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
