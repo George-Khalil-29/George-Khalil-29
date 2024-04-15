@@ -22,5 +22,5 @@
   
  <h2>💻 WorkHard</h2>
       <p>
-      <img src="" width="600" height="400">
+      <img src="./images/CodingImage.jpg" width="600" height="400">
       </p>
