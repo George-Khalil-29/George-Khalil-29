@@ -1,5 +1,6 @@
 <h1>Hello👋</h1>
-<p>My name is George, New Programmer</p>
+<p>My name is George, Programmer</p>
+<p>EAT, CODE, SLEEP</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
