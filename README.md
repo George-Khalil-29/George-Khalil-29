@@ -1,6 +1,6 @@
 <h1>Hello👋</h1>
 <p>My name is George,I'm 15, Programmer</p>
-<p>EAT, CODE, SLEEP</p>
+<p>print(Hello, World!)</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
